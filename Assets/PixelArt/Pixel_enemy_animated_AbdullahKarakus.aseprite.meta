@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: 4d039d166c2a1ae4e9854eee0eeca269
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_0
+    originalName: 
+    pivot: {x: 1, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 72
+      width: 14
+      height: 26
+    spriteID: 33789de0c326eb84fbb766491eda4510
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 72}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_1
+    originalName: 
+    pivot: {x: 1, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 72
+      width: 14
+      height: 25
+    spriteID: dd5473f2f5cbae2408682efc4d404cad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 72}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_2
+    originalName: 
+    pivot: {x: 0.5185185, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 27
+      height: 26
+    spriteID: 375f1aed7e7bc98429ea954295d5cffe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_3
+    originalName: 
+    pivot: {x: 0.7777778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 4
+      width: 18
+      height: 26
+    spriteID: ef000caf805eed040b2fc4b4455cdd87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 4}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_4
+    originalName: 
+    pivot: {x: 0.7777778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 38
+      width: 18
+      height: 25
+    spriteID: 89dad35a6b8f5c74fa9c72c0af61a34d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 38}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_5
+    originalName: 
+    pivot: {x: 1, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 72
+      width: 14
+      height: 26
+    spriteID: 7b91c1262520bd44b8ddbb383c49a59a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 72}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_6
+    originalName: 
+    pivot: {x: 0.9333334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 206
+      y: 38
+      width: 15
+      height: 26
+    spriteID: 7eea441fc22e8f844a4928edf47e87fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 38}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_7
+    originalName: 
+    pivot: {x: 0.875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 38
+      width: 16
+      height: 26
+    spriteID: 9af951ecc4b080b46b282d2413d7a15d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 38}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_8
+    originalName: 
+    pivot: {x: 0.8235294, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 38
+      width: 17
+      height: 26
+    spriteID: ce6227bbf955b7c41b81d7b448995695
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 38}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_9
+    originalName: 
+    pivot: {x: 0.7777778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 177
+      y: 4
+      width: 18
+      height: 26
+    spriteID: 68e48a68cf27e5942887d7495e9a4842
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 4}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_10
+    originalName: 
+    pivot: {x: 1, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 72
+      width: 14
+      height: 26
+    spriteID: 8a3dcdde8112d024ab3350102929dff0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 72}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_11
+    originalName: 
+    pivot: {x: 0.9333334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 229
+      y: 38
+      width: 15
+      height: 26
+    spriteID: 2fbb2e5928e3d5444b88568704251cb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 38}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_12
+    originalName: 
+    pivot: {x: 0.875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 182
+      y: 38
+      width: 16
+      height: 26
+    spriteID: 7d3818f05e2702e4a8a792e294ecc145
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 182, y: 38}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_13
+    originalName: 
+    pivot: {x: 0.8235294, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 38
+      width: 17
+      height: 26
+    spriteID: 74ad2aaeef469564bbc5e17df57eadf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 38}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_14
+    originalName: 
+    pivot: {x: 0.7777778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 203
+      y: 4
+      width: 18
+      height: 26
+    spriteID: 8bf2367da3703c244ad07d1974aba106
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: 4}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_15
+    originalName: 
+    pivot: {x: 0.7, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 4
+      width: 20
+      height: 26
+    spriteID: a9f9b54736a583646b30c6b5193c654b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 4}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_16
+    originalName: 
+    pivot: {x: 0.7777778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 229
+      y: 4
+      width: 18
+      height: 26
+    spriteID: 1bd411a1f11b15f408e91fb6ecfa21b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 4}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_17
+    originalName: 
+    pivot: {x: 0.7, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 4
+      width: 20
+      height: 26
+    spriteID: 98b6ed41ea5968f47bb575205a3b2c88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 4}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_18
+    originalName: 
+    pivot: {x: 0.7777778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 38
+      width: 18
+      height: 26
+    spriteID: 700ca375798b69842ab17395a22341a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 38}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_19
+    originalName: 
+    pivot: {x: 0.7, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 4
+      width: 20
+      height: 26
+    spriteID: 5a02a962185805e40b551317f56fa9e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 4}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_20
+    originalName: 
+    pivot: {x: 0.7777778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 38
+      width: 18
+      height: 26
+    spriteID: 98ddc21049135f949a45d9fe7dc2836a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 38}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_21
+    originalName: 
+    pivot: {x: 0.7, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 123
+      y: 4
+      width: 20
+      height: 26
+    spriteID: e6b5c131d0f78d04c83c93d54458e552
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 4}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_22
+    originalName: 
+    pivot: {x: 0.7777778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 38
+      width: 18
+      height: 26
+    spriteID: 7b865b7f3c6ee8a458251b8f3cbd788d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 38}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_23
+    originalName: 
+    pivot: {x: 1, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 72
+      width: 14
+      height: 26
+    spriteID: 7ec5e59bddeab5e41b3d61ee2612b25a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 72}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_24
+    originalName: 
+    pivot: {x: 1, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 72
+      width: 14
+      height: 25
+    spriteID: ca6eeff76d42cae469928a165404a62b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 72}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_25
+    originalName: 
+    pivot: {x: 1, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 72
+      width: 14
+      height: 24
+    spriteID: e8ea595db5d9c7b4f90a59d2ce4b5a51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 72}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_26
+    originalName: 
+    pivot: {x: 1, y: -0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 72
+      width: 14
+      height: 24
+    spriteID: 73d5408d5ac1dd6439d975e22edf68da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 72}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_27
+    originalName: 
+    pivot: {x: 1, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 72
+      width: 14
+      height: 24
+    spriteID: d439e583b0c2f2047a811df30ff10e65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: 72}
+  - name: Pixel_enemy_animated_AbdullahKarakus_Frame_28
+    originalName: 
+    pivot: {x: 1, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 72
+      width: 14
+      height: 26
+    spriteID: 37e464a1c2344f141beef5f9440d0c91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 72}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1194638201
+    name: Pixel_enemy_animated_AbdullahKarakus
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 26
+      spriteId: 33789de0c326eb84fbb766491eda4510
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 25
+      spriteId: dd5473f2f5cbae2408682efc4d404cad
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 2
+        y: 0
+        width: 27
+        height: 26
+      spriteId: 375f1aed7e7bc98429ea954295d5cffe
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 2
+        y: 0
+        width: 18
+        height: 26
+      spriteId: ef000caf805eed040b2fc4b4455cdd87
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 2
+        y: 0
+        width: 18
+        height: 25
+      spriteId: 89dad35a6b8f5c74fa9c72c0af61a34d
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 26
+      spriteId: 7b91c1262520bd44b8ddbb383c49a59a
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 2
+        y: 0
+        width: 15
+        height: 26
+      spriteId: 7eea441fc22e8f844a4928edf47e87fe
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 2
+        y: 0
+        width: 16
+        height: 26
+      spriteId: 9af951ecc4b080b46b282d2413d7a15d
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 2
+        y: 0
+        width: 17
+        height: 26
+      spriteId: ce6227bbf955b7c41b81d7b448995695
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 2
+        y: 0
+        width: 18
+        height: 26
+      spriteId: 68e48a68cf27e5942887d7495e9a4842
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 26
+      spriteId: 8a3dcdde8112d024ab3350102929dff0
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 2
+        y: 0
+        width: 15
+        height: 26
+      spriteId: 2fbb2e5928e3d5444b88568704251cb7
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 2
+        y: 0
+        width: 16
+        height: 26
+      spriteId: 7d3818f05e2702e4a8a792e294ecc145
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 2
+        y: 0
+        width: 17
+        height: 26
+      spriteId: 74ad2aaeef469564bbc5e17df57eadf7
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 2
+        y: 0
+        width: 18
+        height: 26
+      spriteId: 8bf2367da3703c244ad07d1974aba106
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 2
+        y: 0
+        width: 20
+        height: 26
+      spriteId: a9f9b54736a583646b30c6b5193c654b
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 2
+        y: 0
+        width: 18
+        height: 26
+      spriteId: 1bd411a1f11b15f408e91fb6ecfa21b4
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 2
+        y: 0
+        width: 20
+        height: 26
+      spriteId: 98b6ed41ea5968f47bb575205a3b2c88
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 2
+        y: 0
+        width: 18
+        height: 26
+      spriteId: 700ca375798b69842ab17395a22341a2
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 2
+        y: 0
+        width: 20
+        height: 26
+      spriteId: 5a02a962185805e40b551317f56fa9e5
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 2
+        y: 0
+        width: 18
+        height: 26
+      spriteId: 98ddc21049135f949a45d9fe7dc2836a
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 2
+        y: 0
+        width: 20
+        height: 26
+      spriteId: e6b5c131d0f78d04c83c93d54458e552
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 2
+        y: 0
+        width: 18
+        height: 26
+      spriteId: 7b865b7f3c6ee8a458251b8f3cbd788d
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 26
+      spriteId: 7ec5e59bddeab5e41b3d61ee2612b25a
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 25
+      spriteId: ca6eeff76d42cae469928a165404a62b
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 2
+        y: 2
+        width: 14
+        height: 24
+      spriteId: e8ea595db5d9c7b4f90a59d2ce4b5a51
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 2
+        y: 3
+        width: 14
+        height: 24
+      spriteId: 73d5408d5ac1dd6439d975e22edf68da
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 2
+        y: 2
+        width: 14
+        height: 24
+      spriteId: d439e583b0c2f2047a811df30ff10e65
+    - name: Pixel_enemy_animated_AbdullahKarakus_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 26
+      spriteId: 37e464a1c2344f141beef5f9440d0c91
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}
