@@ -1,0 +1,1284 @@
+fileFormatVersion: 2
+guid: a88e684daa16fea4c8059c2bc555757e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_0
+    originalName: 
+    pivot: {x: 1, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 137
+      width: 14
+      height: 26
+    spriteID: 12ab73e5dd205c7489405d1bd16e9d66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 137}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_1
+    originalName: 
+    pivot: {x: 1, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 106
+      width: 14
+      height: 25
+    spriteID: d475462822533804d879423d1dffe1f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 106}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_2
+    originalName: 
+    pivot: {x: 0.5185185, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 27
+      height: 26
+    spriteID: d29612c519e7dad45bd848835f65e1f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_3
+    originalName: 
+    pivot: {x: 0.88235295, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 225
+      y: 4
+      width: 17
+      height: 25
+    spriteID: bcf79d1e9c15b3447bbc3dea2e2fbb89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 4}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_4
+    originalName: 
+    pivot: {x: 0.7777778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 123
+      y: 4
+      width: 18
+      height: 26
+    spriteID: 88b3e946d1df4764594e4a465040e128
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 4}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_5
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 4
+      width: 20
+      height: 26
+    spriteID: 1e70494f228b3564abffe85fa81d6301
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 4}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_6
+    originalName: 
+    pivot: {x: 0.5882353, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 175
+      y: 4
+      width: 17
+      height: 26
+    spriteID: c7c6cd810b839044abb355c6ea094012
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 175, y: 4}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_7
+    originalName: 
+    pivot: {x: 0.4, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 4
+      width: 20
+      height: 26
+    spriteID: 6f4f0c7954a808446a68d2d4073b2d9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 4}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_8
+    originalName: 
+    pivot: {x: 0.4117647, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 4
+      width: 17
+      height: 26
+    spriteID: 73ec034f35d313c4b803dbb2570499d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 4}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_9
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 4
+      width: 20
+      height: 26
+    spriteID: c71f89f3a2da4594f82afe09f6d54359
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 4}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_10
+    originalName: 
+    pivot: {x: 0.1764706, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 38
+      width: 17
+      height: 25
+    spriteID: 453f3f9ebc0e179459111f509a6aa741
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 38}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_11
+    originalName: 
+    pivot: {x: 0.11111111, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 4
+      width: 18
+      height: 25
+    spriteID: 89b102b0a047c7b4099c34cb457eb3ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 4}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_12
+    originalName: 
+    pivot: {x: 1, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 171
+      width: 14
+      height: 26
+    spriteID: e2b0dbcfff4b9b548afcd93374f675d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 171}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_13
+    originalName: 
+    pivot: {x: 1, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 205
+      width: 14
+      height: 26
+    spriteID: af4999facef68f84599105634eab4300
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 205}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_14
+    originalName: 
+    pivot: {x: 0.9333334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 38
+      width: 15
+      height: 24
+    spriteID: 335b32861347e3349ae43be7e5b866f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 38}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_15
+    originalName: 
+    pivot: {x: 0.8000001, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 139
+      width: 15
+      height: 25
+    spriteID: 8906b3e54da98bf4fa38c7f6095905d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 139}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_16
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 172
+      width: 15
+      height: 25
+    spriteID: f75f492871f314c4b8e26955b1897a71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 172}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_17
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 205
+      width: 15
+      height: 25
+    spriteID: 70dd4dd246ae67746b718196694e1ffd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 205}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_18
+    originalName: 
+    pivot: {x: 0.33333334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 70
+      width: 15
+      height: 24
+    spriteID: 135ae01a48bbeac409c67873fd27f4f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 70}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_19
+    originalName: 
+    pivot: {x: 0.33333334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 38
+      width: 15
+      height: 25
+    spriteID: 00431cabd8133274e9be766e039ff581
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 38}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_20
+    originalName: 
+    pivot: {x: 0.26666668, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 71
+      width: 15
+      height: 25
+    spriteID: 451fb646235136e4fa5dd8c9f6be9cde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 71}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_21
+    originalName: 
+    pivot: {x: 0.06666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 71
+      width: 15
+      height: 26
+    spriteID: e340917b0f41feb4bb5b948ee9f53623
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 71}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_22
+    originalName: 
+    pivot: {x: -0.06666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 104
+      width: 15
+      height: 25
+    spriteID: c2418f7448432fa4986858444dd53cac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 104}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_23
+    originalName: 
+    pivot: {x: -0.33333334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 201
+      width: 12
+      height: 26
+    spriteID: 5ba48a33d114cbc41afefd80e62e803c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 201}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_24
+    originalName: 
+    pivot: {x: -0.45454547, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 119
+      y: 38
+      width: 11
+      height: 25
+    spriteID: d41f438960952d049a7bb0151739d164
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 119, y: 38}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_25
+    originalName: 
+    pivot: {x: -0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 119
+      y: 71
+      width: 10
+      height: 26
+    spriteID: 703c97266e7b6714da9f32ed195c45af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 119, y: 71}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_26
+    originalName: 
+    pivot: {x: 1, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 38
+      width: 14
+      height: 26
+    spriteID: b1273e424d5f5224ba239ea28a2b4420
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 38}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_27
+    originalName: 
+    pivot: {x: 1, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 72
+      width: 14
+      height: 26
+    spriteID: 56bb791c54421a04a89f6e64e261aa8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 72}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_28
+    originalName: 
+    pivot: {x: 1, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 168
+      width: 13
+      height: 25
+    spriteID: df13ab6f2af9dd44cbe759493791e902
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 168}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_29
+    originalName: 
+    pivot: {x: 0.92857146, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 139
+      width: 14
+      height: 25
+    spriteID: f4d6b9dd5007a7e4ea11b37a538fdca8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 139}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_30
+    originalName: 
+    pivot: {x: 0.7857143, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 172
+      width: 14
+      height: 25
+    spriteID: 3af36d70e78fd664abebb15827ac7435
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 172}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_31
+    originalName: 
+    pivot: {x: 0.71428573, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 106
+      width: 14
+      height: 26
+    spriteID: 9cd79160a0113ad48802d62e1f92444a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 106}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_32
+    originalName: 
+    pivot: {x: 0.5714286, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 140
+      width: 14
+      height: 26
+    spriteID: c69a00d6cbdeded429b40c9a3be4a569
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 140}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 205
+      width: 14
+      height: 25
+    spriteID: 8035893f48a818c4e9124f9a3f67dcfd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 205}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_34
+    originalName: 
+    pivot: {x: 0.42857146, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 174
+      width: 14
+      height: 26
+    spriteID: 061ced39335733f418c2be78584d84e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 174}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_35
+    originalName: 
+    pivot: {x: 0.40000004, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 105
+      width: 15
+      height: 26
+    spriteID: ee4a83ff77c7c0d4f87e781bf869a5f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 105}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_36
+    originalName: 
+    pivot: {x: 0.2857143, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 102
+      width: 14
+      height: 25
+    spriteID: 23a1df902211475468746a72254c6c7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 102}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_37
+    originalName: 
+    pivot: {x: 0.14285715, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 208
+      width: 14
+      height: 26
+    spriteID: 031f974553a26994e949944d9d8d324f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 208}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_38
+    originalName: 
+    pivot: {x: 0.071428575, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 38
+      width: 14
+      height: 26
+    spriteID: 339d0686469b1fb4fa35486facf25ba9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 38}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_39
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 135
+      width: 14
+      height: 25
+    spriteID: 70957b17c1cca9e44ac299e851212781
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 135}
+  - name: Pixel_enemy_animated_CanBaytekin_Frame_40
+    originalName: 
+    pivot: {x: -0.071428575, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 72
+      width: 14
+      height: 26
+    spriteID: 725c8c951ccb7624d9ecdc7019a3a91a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 72}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -426917539
+    name: Pixel_enemy_animated_CanBaytekin
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 26
+      spriteId: 12ab73e5dd205c7489405d1bd16e9d66
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 25
+      spriteId: d475462822533804d879423d1dffe1f0
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 2
+        y: 0
+        width: 27
+        height: 26
+      spriteId: d29612c519e7dad45bd848835f65e1f5
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 1
+        y: 0
+        width: 17
+        height: 25
+      spriteId: bcf79d1e9c15b3447bbc3dea2e2fbb89
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 2
+        y: 0
+        width: 18
+        height: 26
+      spriteId: 88b3e946d1df4764594e4a465040e128
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 4
+        y: 0
+        width: 20
+        height: 26
+      spriteId: 1e70494f228b3564abffe85fa81d6301
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 6
+        y: 0
+        width: 17
+        height: 26
+      spriteId: c7c6cd810b839044abb355c6ea094012
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 8
+        y: 0
+        width: 20
+        height: 26
+      spriteId: 6f4f0c7954a808446a68d2d4073b2d9a
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 9
+        y: 0
+        width: 17
+        height: 26
+      spriteId: 73ec034f35d313c4b803dbb2570499d1
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 10
+        y: 0
+        width: 20
+        height: 26
+      spriteId: c71f89f3a2da4594f82afe09f6d54359
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 13
+        y: 0
+        width: 17
+        height: 25
+      spriteId: 453f3f9ebc0e179459111f509a6aa741
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 25
+      spriteId: 89b102b0a047c7b4099c34cb457eb3ac
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 26
+      spriteId: e2b0dbcfff4b9b548afcd93374f675d8
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 26
+      spriteId: af4999facef68f84599105634eab4300
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 2
+        y: 0
+        width: 15
+        height: 24
+      spriteId: 335b32861347e3349ae43be7e5b866f9
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 4
+        y: 0
+        width: 15
+        height: 25
+      spriteId: 8906b3e54da98bf4fa38c7f6095905d3
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 7
+        y: 0
+        width: 15
+        height: 25
+      spriteId: f75f492871f314c4b8e26955b1897a71
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 9
+        y: 0
+        width: 15
+        height: 25
+      spriteId: 70dd4dd246ae67746b718196694e1ffd
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 11
+        y: 0
+        width: 15
+        height: 24
+      spriteId: 135ae01a48bbeac409c67873fd27f4f7
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 11
+        y: 0
+        width: 15
+        height: 25
+      spriteId: 00431cabd8133274e9be766e039ff581
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 12
+        y: 0
+        width: 15
+        height: 25
+      spriteId: 451fb646235136e4fa5dd8c9f6be9cde
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 15
+        y: 0
+        width: 15
+        height: 26
+      spriteId: e340917b0f41feb4bb5b948ee9f53623
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 17
+        y: 0
+        width: 15
+        height: 25
+      spriteId: c2418f7448432fa4986858444dd53cac
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 20
+        y: 0
+        width: 12
+        height: 26
+      spriteId: 5ba48a33d114cbc41afefd80e62e803c
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 21
+        y: 0
+        width: 11
+        height: 25
+      spriteId: d41f438960952d049a7bb0151739d164
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 22
+        y: 0
+        width: 10
+        height: 26
+      spriteId: 703c97266e7b6714da9f32ed195c45af
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 26
+      spriteId: b1273e424d5f5224ba239ea28a2b4420
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 26
+      spriteId: 56bb791c54421a04a89f6e64e261aa8b
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 3
+        y: 0
+        width: 13
+        height: 25
+      spriteId: df13ab6f2af9dd44cbe759493791e902
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 3
+        y: 0
+        width: 14
+        height: 25
+      spriteId: f4d6b9dd5007a7e4ea11b37a538fdca8
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 5
+        y: 0
+        width: 14
+        height: 25
+      spriteId: 3af36d70e78fd664abebb15827ac7435
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 6
+        y: 0
+        width: 14
+        height: 26
+      spriteId: 9cd79160a0113ad48802d62e1f92444a
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 8
+        y: 0
+        width: 14
+        height: 26
+      spriteId: c69a00d6cbdeded429b40c9a3be4a569
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 9
+        y: 0
+        width: 14
+        height: 25
+      spriteId: 8035893f48a818c4e9124f9a3f67dcfd
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 10
+        y: 0
+        width: 14
+        height: 26
+      spriteId: 061ced39335733f418c2be78584d84e0
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 10
+        y: 0
+        width: 15
+        height: 26
+      spriteId: ee4a83ff77c7c0d4f87e781bf869a5f8
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 12
+        y: 0
+        width: 14
+        height: 25
+      spriteId: 23a1df902211475468746a72254c6c7e
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 14
+        y: 0
+        width: 14
+        height: 26
+      spriteId: 031f974553a26994e949944d9d8d324f
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 15
+        y: 0
+        width: 14
+        height: 26
+      spriteId: 339d0686469b1fb4fa35486facf25ba9
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 16
+        y: 0
+        width: 14
+        height: 25
+      spriteId: 70957b17c1cca9e44ac299e851212781
+    - name: Pixel_enemy_animated_CanBaytekin_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 17
+        y: 0
+        width: 14
+        height: 26
+      spriteId: 725c8c951ccb7624d9ecdc7019a3a91a
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}

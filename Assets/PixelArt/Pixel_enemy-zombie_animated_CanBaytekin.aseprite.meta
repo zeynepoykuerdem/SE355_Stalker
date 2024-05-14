@@ -1,0 +1,1452 @@
+fileFormatVersion: 2
+guid: 0114fa60bc53876449253e13c0c539d4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_0
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 78
+      width: 24
+      height: 29
+    spriteID: b7fe63d190f1c3149a0a700597fef079
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 78}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_1
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 115
+      width: 24
+      height: 29
+    spriteID: 2ee26790b0e25b2428529c3943b50dc4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 115}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_2
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 152
+      width: 24
+      height: 29
+    spriteID: c3624cb0dc13b4047a55f504b9878aa8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 152}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_3
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 189
+      width: 24
+      height: 29
+    spriteID: 2bab8e4d9193e4b46a2ae7d0fa12f5dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 189}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_4
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 226
+      width: 24
+      height: 29
+    spriteID: 4f43c5e3f64ec4d4280c00182604cfd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 226}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_5
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 269
+      width: 26
+      height: 29
+    spriteID: c4d7f988b71ce404bb8800fb96a00ae7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 269}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_6
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 306
+      width: 26
+      height: 29
+    spriteID: bcec26a2d9f2a8346b3a1926c261c05e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 306}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_7
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 343
+      width: 26
+      height: 29
+    spriteID: bc8b5922ff0353942b72b230f5f945d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 343}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_8
+    originalName: 
+    pivot: {x: 0.5769231, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 41
+      width: 26
+      height: 30
+    spriteID: 87243c1a82fe11a4780f0e03e9eec725
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 41}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_9
+    originalName: 
+    pivot: {x: 0.5769231, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 79
+      width: 26
+      height: 30
+    spriteID: 4ca885d6923f0fe4ea9e47eb0e02276a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 79}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_10
+    originalName: 
+    pivot: {x: 0.5769231, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 117
+      width: 26
+      height: 30
+    spriteID: 67c7896632a6ad74f98e10dd82c725c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 117}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_11
+    originalName: 
+    pivot: {x: 0.5769231, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 155
+      width: 26
+      height: 30
+    spriteID: dd57037cde8dda04983c7c980f48bb0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 155}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_12
+    originalName: 
+    pivot: {x: 0.5769231, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 193
+      width: 26
+      height: 30
+    spriteID: 9298a75df02588f429a1d7fd6e4cf855
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 193}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_13
+    originalName: 
+    pivot: {x: 0.5769231, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 231
+      width: 26
+      height: 30
+    spriteID: 274f11d8b981b3d4a9f92aba485c1966
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 231}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_14
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 263
+      width: 24
+      height: 29
+    spriteID: 3f8de1de68e9d13459a45e38de9e717a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 263}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_15
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 300
+      width: 24
+      height: 29
+    spriteID: f145ddb690f08d241963d66f68e310fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 300}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_16
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 337
+      width: 24
+      height: 29
+    spriteID: 0d91e425b8e1d34459bf99f9661d711f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 337}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_17
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 380
+      width: 26
+      height: 29
+    spriteID: 78bb8ab50ffa1aa468ca2e19942b4b3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 380}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_18
+    originalName: 
+    pivot: {x: 0.5925926, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 27
+      height: 29
+    spriteID: 3b1c81d1370094a4bbd0edfda935e085
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_19
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 417
+      width: 26
+      height: 29
+    spriteID: bba46a741acb8074589f190efdca4d70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 417}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_20
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 454
+      width: 26
+      height: 29
+    spriteID: 2eb9ccda118e7f94288374b57c2197df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 454}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_21
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 4
+      width: 26
+      height: 29
+    spriteID: e93fc164ff2135f499f34b6b398ee2b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 4}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_22
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 41
+      width: 26
+      height: 29
+    spriteID: 6f93bc632651b6944a9d334b924cf610
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 41}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_23
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 374
+      width: 24
+      height: 29
+    spriteID: be867bb1b2286334c8d35bbc7f943a5a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 374}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_24
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 256
+      width: 23
+      height: 29
+    spriteID: 77a3b164cfe5aa141a34f1163248264d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 256}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_25
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 411
+      width: 24
+      height: 29
+    spriteID: b8c0bc19a491bce4486174b7f265346a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 411}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_26
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 448
+      width: 24
+      height: 29
+    spriteID: bd066e58d7c18be49b0f0a2e6b48e88f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 448}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_27
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 4
+      width: 24
+      height: 29
+    spriteID: e1665f295a6065c4f9072c984a1095aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 4}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_28
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 41
+      width: 24
+      height: 29
+    spriteID: 226894a180a70fe49ae5b9a13a8b0b1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 41}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_29
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 78
+      width: 24
+      height: 29
+    spriteID: 5982d77818563374bb91a1be042df477
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 78}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_30
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 115
+      width: 24
+      height: 29
+    spriteID: 15748ae4dfde86c40ab1ea54782b041e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 115}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_31
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 152
+      width: 24
+      height: 29
+    spriteID: e784cfa486d77624ab905071478d51ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 152}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_32
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 189
+      width: 24
+      height: 29
+    spriteID: c90cb95b29b6da14facc274acbf6eb5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 189}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_33
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 226
+      width: 24
+      height: 29
+    spriteID: dfb683c531caa3e4f9ef5aa13fbcb5de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 226}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_34
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 263
+      width: 24
+      height: 29
+    spriteID: f540be3d08a3720439ffbfc14c1cfb80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 263}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_35
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 300
+      width: 24
+      height: 29
+    spriteID: 19c38785e0d56c840954fda40754cfcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 300}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_36
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 337
+      width: 24
+      height: 29
+    spriteID: 81ba5d263f10f15418d4f14bca692807
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 337}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_37
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 374
+      width: 24
+      height: 29
+    spriteID: e35be1417d2677b4a98d7dda0c5bd9b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 374}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_38
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 411
+      width: 24
+      height: 28
+    spriteID: 5e5e54740cd91ae48a28539ebcc19f96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 411}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_39
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 447
+      width: 24
+      height: 28
+    spriteID: 48a1f7b2b7277f54ebd6d1038ebe10e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 447}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_40
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 4
+      width: 24
+      height: 28
+    spriteID: 700c40d14ce70104a8377fe0be8bd2f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 4}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_41
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 40
+      width: 24
+      height: 28
+    spriteID: f6e43a5bf20c60048afb9a52da871f5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 40}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_42
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 76
+      width: 24
+      height: 28
+    spriteID: c5a53aa79d7e19348beba403289de837
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 76}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_43
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 112
+      width: 24
+      height: 28
+    spriteID: 53041592f843cea4aa3a947849b2a4d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 112}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_44
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 148
+      width: 24
+      height: 28
+    spriteID: 0b6ebd403885696428ca52a8bdd49432
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 148}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_45
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 184
+      width: 24
+      height: 28
+    spriteID: 7b098fd8f141e68439bbecd789f81739
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 184}
+  - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_46
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 220
+      width: 24
+      height: 28
+    spriteID: 05874fe492f445a4d809bffca3b158b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 220}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 255955840
+    name: Pixel_enemy-zombie_animated_CanBaytekin
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: b7fe63d190f1c3149a0a700597fef079
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: 2ee26790b0e25b2428529c3943b50dc4
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: c3624cb0dc13b4047a55f504b9878aa8
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: 2bab8e4d9193e4b46a2ae7d0fa12f5dc
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: 4f43c5e3f64ec4d4280c00182604cfd3
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 1
+        y: 1
+        width: 26
+        height: 29
+      spriteId: c4d7f988b71ce404bb8800fb96a00ae7
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 1
+        y: 1
+        width: 26
+        height: 29
+      spriteId: bcec26a2d9f2a8346b3a1926c261c05e
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 1
+        y: 1
+        width: 26
+        height: 29
+      spriteId: bc8b5922ff0353942b72b230f5f945d8
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 1
+        y: 0
+        width: 26
+        height: 30
+      spriteId: 87243c1a82fe11a4780f0e03e9eec725
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 1
+        y: 0
+        width: 26
+        height: 30
+      spriteId: 4ca885d6923f0fe4ea9e47eb0e02276a
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 1
+        y: 0
+        width: 26
+        height: 30
+      spriteId: 67c7896632a6ad74f98e10dd82c725c2
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 1
+        y: 0
+        width: 26
+        height: 30
+      spriteId: dd57037cde8dda04983c7c980f48bb0a
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 1
+        y: 0
+        width: 26
+        height: 30
+      spriteId: 9298a75df02588f429a1d7fd6e4cf855
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 1
+        y: 0
+        width: 26
+        height: 30
+      spriteId: 274f11d8b981b3d4a9f92aba485c1966
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: 3f8de1de68e9d13459a45e38de9e717a
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: f145ddb690f08d241963d66f68e310fe
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: 0d91e425b8e1d34459bf99f9661d711f
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 1
+        y: 1
+        width: 26
+        height: 29
+      spriteId: 78bb8ab50ffa1aa468ca2e19942b4b3a
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: 1
+        width: 27
+        height: 29
+      spriteId: 3b1c81d1370094a4bbd0edfda935e085
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 1
+        y: 1
+        width: 26
+        height: 29
+      spriteId: bba46a741acb8074589f190efdca4d70
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 1
+        y: 1
+        width: 26
+        height: 29
+      spriteId: 2eb9ccda118e7f94288374b57c2197df
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 1
+        y: 1
+        width: 26
+        height: 29
+      spriteId: e93fc164ff2135f499f34b6b398ee2b7
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 1
+        y: 1
+        width: 26
+        height: 29
+      spriteId: 6f93bc632651b6944a9d334b924cf610
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: be867bb1b2286334c8d35bbc7f943a5a
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 4
+        y: 1
+        width: 23
+        height: 29
+      spriteId: 77a3b164cfe5aa141a34f1163248264d
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: b8c0bc19a491bce4486174b7f265346a
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: bd066e58d7c18be49b0f0a2e6b48e88f
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: e1665f295a6065c4f9072c984a1095aa
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: 226894a180a70fe49ae5b9a13a8b0b1f
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: 5982d77818563374bb91a1be042df477
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: 15748ae4dfde86c40ab1ea54782b041e
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: e784cfa486d77624ab905071478d51ad
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: c90cb95b29b6da14facc274acbf6eb5b
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: dfb683c531caa3e4f9ef5aa13fbcb5de
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: f540be3d08a3720439ffbfc14c1cfb80
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: 19c38785e0d56c840954fda40754cfcd
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: 81ba5d263f10f15418d4f14bca692807
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 29
+      spriteId: e35be1417d2677b4a98d7dda0c5bd9b5
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 28
+      spriteId: 5e5e54740cd91ae48a28539ebcc19f96
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 28
+      spriteId: 48a1f7b2b7277f54ebd6d1038ebe10e9
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 28
+      spriteId: 700c40d14ce70104a8377fe0be8bd2f4
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 28
+      spriteId: f6e43a5bf20c60048afb9a52da871f5c
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 28
+      spriteId: c5a53aa79d7e19348beba403289de837
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 28
+      spriteId: 53041592f843cea4aa3a947849b2a4d6
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 28
+      spriteId: 0b6ebd403885696428ca52a8bdd49432
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 28
+      spriteId: 7b098fd8f141e68439bbecd789f81739
+    - name: Pixel_enemy-zombie_animated_CanBaytekin_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 3
+        y: 1
+        width: 24
+        height: 28
+      spriteId: 05874fe492f445a4d809bffca3b158b5
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}
